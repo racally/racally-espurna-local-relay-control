@@ -1,5 +1,5 @@
 # racally-espurna-local-relay-control
-Basic Smartthings device handler to control devices flashed with espurna firmware using HTTP API
+Basic Smartthings device handler to control ESP2866-based devices flashed with espurna firmware using HTTP API
 
 This is first attempt creating a device handler and first use of this scripting code (groovy)
 
